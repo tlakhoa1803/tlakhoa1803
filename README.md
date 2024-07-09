@@ -42,6 +42,9 @@ I'm a passionate web developer with a broad skill set in various technologies an
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tlakhoa1803&show_icons=true&theme=radical)
 
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tlakhoa1803&theme=radical)
+
 ## 🌟 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tlakhoa1803&layout=compact&theme=radical)
 
@@ -49,6 +52,6 @@ I'm a passionate web developer with a broad skill set in various technologies an
 ![GitHub Rank](https://github-profile-trophy.vercel.app/?username=tlakhoa1803&theme=radical)
 
 ## 🌸 Thank you
-![Cute GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemU5dWQwN3B6emdvbnFjNmJsZmFyaDFtajc0bnlpejB0Zm5nM3VzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t8NevcOZO5ZTDc2v5y/giphy.gif))
+![Cute GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemU5dWQwN3B6emdvbnFjNmJsZmFyaDFtajc0bnlpejB0Zm5nM3VzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t8NevcOZO5ZTDc2v5y/giphy.gif)
 
 Thanks for visiting my profile! Feel free to reach out and connect with me.
